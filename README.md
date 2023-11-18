@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iliyan-pigeon
-- 👀 I’m interested in blockchain technologies, finance, machine learning and to an extend in cyber security, but this is a huge stretch, as I'm still developing my fundamentals in the field of programming.
-- 🌱 I’m currently learning Python as my first programming language, as well as everything that comes around it, like Django, Flask, databases, a little Javascript and HTML/CSS ...
+- 👀 I'm interested mostly in web development, but also, but also ready to ambrace knowledge for cyber security, blockchain, finance ...
+- 🌱 I’m a Python proficient programmer working with Django framework and also with expertice in JavaScript, HTML, CSS, SQL ...
 - 💞️ I’m looking to collaborate on every idea or proposal that is in my capabilities.
-- 📫 How to reach me: e-mail: milenov556@gmail.com
+- 📫 You cab reach me via email: milenov556@gmail.com
 
 <!---
 iliyan-pigeon/iliyan-pigeon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
