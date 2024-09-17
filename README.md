@@ -2,7 +2,7 @@
 
 I’m an Automation & Optimization Specialist at First Investment Bank (Fibank), specializing in Python and process automation. Passionate about web development, IoT, and solving complex problems, I'm always eager to learn and grow in the field of programming.
 
-💼 Professional Experience
+💼 Professional Experience:
 IVR Call Automation: Developed a system for automated client calls with interaction and follow-up actions based on their responses.
 Face Recognition App: Built a tool to detect discrepancies in scanned documents using face recognition and database credentials.
 Automated Reports: Created scripts to generate Excel/CSV reports with automatic email delivery via SMTP.
