@@ -20,4 +20,3 @@ IoT & Games: Built IoT tools (mouse mover, camera automation) and small apps lik
 
 🤝 Let's Connect
 Email: milenov556@gmail.com
-LinkedIn: [Your LinkedIn URL] (Optional)
