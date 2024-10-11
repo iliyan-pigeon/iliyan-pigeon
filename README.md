@@ -20,4 +20,4 @@ I’m an **Automation & Optimization Specialist** at **First Investment Bank (Fi
 
 ### 🤝 Let's Connect:
 - **Email**: [milenov556@gmail.com](mailto:milenov556@gmail.com)
-- **LinkedIn: [linkedin.com/in/iliyan-galabov](https://linkedin.com/in/iliyan-galabov)
+- **LinkedIn**: [linkedin.com/in/iliyan-galabov](https://linkedin.com/in/iliyan-galabov)
