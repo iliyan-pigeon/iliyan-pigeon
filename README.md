@@ -11,7 +11,7 @@ I’m an **Automation & Optimization Specialist** at **First Investment Bank (Fi
 ### 🛠️ Tech Stack:
 - **Languages**: Python, SQL, Bash
 - **Frameworks**: Django, Flask, FastAPI
-- **Tools**: Git, Jenkins, Oracle SQL, Postman, Linux
+- **Tools**: Git, Jenkins, Oracle SQL, Postman, Linux, Docker
 - **Other**: Web scraping, API integration, SMTP automation
 
 ### 🏗️ Personal Projects:
